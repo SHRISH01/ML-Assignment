@@ -39,17 +39,12 @@ The dashboard consists of three visualizations:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the dashboard:
-   ```bash
-   python app.py
-   ```
-4. Open your browser and go to: `http://127.0.0.1:8050/`
+3. Run the Notebook.
 
 ## 📂 File Structure
 ```
 .
 ├── data/                 # Raw & Processed Data
-├── app.py                # Dash Application
 ├── requirements.txt      # Python Dependencies
 ├── README.md             # Project Documentation
 └── notebooks/            # Jupyter Notebooks for Analysis
@@ -67,6 +62,6 @@ The dashboard consists of three visualizations:
 
 ---
 📧 **Author:** Shrish Kamboj  
-🌍 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)  
-🚀 **GitHub:** [Your GitHub](https://github.com/your-username)
+🌍 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/shrish-kamboj-572a64223/)  
+🚀 **GitHub:** [Your GitHub](https://github.com/SHRISH01)
 
