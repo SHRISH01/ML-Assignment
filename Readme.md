@@ -1,5 +1,5 @@
 # 🛒 Customer Insights Dashboard
-
+  
 ## 📌 Overview
 This project is part of the **Machine Learning Internship at iGnosis Tech**. The goal is to analyze customer purchasing behavior and create a **dashboard using Plotly and Dash** to visualize key insights from the given dataset.
 
